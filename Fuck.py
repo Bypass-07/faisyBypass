@@ -1,0 +1,2 @@
+import faisy
+faisy.login()
